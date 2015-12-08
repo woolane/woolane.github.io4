@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            woolane
+description:      思想 私享
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
@@ -8,11 +8,11 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Liang Wu
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          woolane@woolane.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        woolane
   facebook:       
   github:         
   stackexchange:  
@@ -43,7 +43,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Singapore
 future:      true
 pygments:    true
 markdown:    kramdown
